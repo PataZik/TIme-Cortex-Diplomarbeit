@@ -1,0 +1,60 @@
+Drucker & Status
+
+Drucker: Bambu Lab P2S
+Düse: 0,4 mm, Fluss Standard
+Hotend-Temp: 255/255 °C
+Druckbett-Temp: 70/70 °C
+Kammertemperatur: 41 °C
+Lüfter: 100%
+Luftfeuchtigkeit Filament: 17%
+
+Filament-Setup (AMS, 4 Slots)
+
+A1: Leer
+A2: PETG
+A3: ASA
+A4: PETG (aktiv – pink markiert, dieser Slot wird gedruckt)
+Externer Spool: nicht definiert ("?")
+Im Slicer eingestellt: Generic PETG
+
+Druckauftrag
+
+Projektname: patrick-case
+Fortschritt: 75%, Schicht 86/165
+Restzeit: ca. 45 min
+Gesamtdruckzeit: 3 h 8 min (laut Status), bzw. 3h1m Modelldruckzeit laut Slicing-Ergebnis
+Materialverbrauch: 94,86 g (Modell: 94,21 g + Stützen: 0,64 g)
+Filamentlänge gesamt: 31,05 m (Modell 30,84 m + Stützen 0,21 m)
+Filamentwechsel: 0
+Kosten: 2,85 €
+
+Slicer-Einstellungen
+
+Profil: 0,20mm Standard @BBL P2S
+Fülldichte (Infill): 10%
+Füllmuster: Gitternetz (Infill), Geradlinig (massives Füllmuster)
+Mehrzeilige Füllung: 1
+Länge des Füllungsankers: 400 mm bzw. %
+Max. Länge Füllungsanker: 20 mm bzw. %
+Überlappung Füllung/Wand: 15%
+Füllrichtung: 45°
+Richtung der Brücke: 0°
+Mindestschwelle für Füllung: 15 mm²
+Dicke der unteren Schale: 0 mm
+Untere Farbschichten: 3
+
+Stützstrukturen
+
+Aktiviert: Ja
+Typ: Baum (auto)
+Stil: Standard
+Schwellenwinkel: 30°
+Nur auf Druckplatte: Nein
+Nur kritische Bereiche stützen: Nein
+Kleine Überhänge entfernen: Ja
+Floß: 0 Schichten (kein Raft)
+
+Druckplatte / Objekte
+
+2 Teile auf der Platte: Unterteil (offene Box mit Standoffs/Bohrungen) und Deckel (mit rechteckigem Ausschnitt, vermutlich Display/Fenster)
+Druckbett: Bambu Textured PEI Plate, Hot Surface

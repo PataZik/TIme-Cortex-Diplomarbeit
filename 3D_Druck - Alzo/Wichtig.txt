@@ -1,0 +1,9 @@
+1_Design_3D-Druck: 
+Der Deckel wird nur über zwei schmale Schnapp-Laschen an Vorder- und Rückseite gehalten, an den Seiten gibt es keine Verriegelung. Bei 96×96 mm Gehäusegröße fehlt dadurch in der Mitte der Seitenwände der Gegenhalt – der Deckel biegt sich dort hoch und schließt nicht bündig. Die Hooks sind außerdem nur 0,9 mm stark, also sehr filigran und entsprechend zerbrechlich – beim Öffnen/Schließen brechen sie leicht ab, und nach ein paar Mal Benutzen nutzt sich die Verrastung sichtbar ab.
+
+2_Design_3D-Druck (case.stl): 
+Verschluss ist gleichmäßiger über das gesamte Gehäuse verteilt statt nur an zwei Punkten. Dadurch liegt der Deckel überall gleich auf, kein Spalt an den Seiten, gleichmäßigerer Schließdruck, und die Mechanik ist insgesamt robuster und weniger anfällig für Bruch.
+
+Fazit: 
+1_Design_3D-Druck hatte zu wenige, zu dünne und ungleich verteilte Schnapppunkte – dadurch instabil und zerbrechlich. 
+2_Design_3D-Druck löst das durch umlaufende, stabilere Verteilung des Verschlusses.
