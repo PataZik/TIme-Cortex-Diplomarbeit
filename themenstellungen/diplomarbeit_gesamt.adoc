@@ -10,7 +10,7 @@
 :hyphens:
 
 // Lädt das PDF, das aus der Wordvorlage erzeugt wurde, zu Beginn der Arbeit.
-image::diplomarbeit_intro.pdf[pages=1..99]
+// image::diplomarbeit_intro.pdf[pages=1..99]
 
 // Schreibt das Inhaltsverzeichnis
 toc::[]
@@ -18,7 +18,7 @@ toc::[]
 // Füge die Arbeit jedes einzelnen ein.
 // WICHTIG: Nach jedem include muss eine Leerzeile sein!
 
-include::diplomarbeit_themenstellung.adoc[]
+include::diplomarbeit_alzo.adoc[]
 
 // include::diplomarbeit_themenstellung_nachname1.adoc[]
 
