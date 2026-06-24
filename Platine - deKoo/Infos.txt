@@ -1,0 +1,3 @@
+Das RFID Modul sowie LCD Bildschirm habe ich selbst drangelötet
+Viel Zeit habe ich mit der recherche von verschiedenen Komponenten verbracht
+Ich war hauptsächlich für die Erstellung der Platine zuständig
