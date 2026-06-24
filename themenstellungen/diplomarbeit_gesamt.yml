@@ -8,9 +8,12 @@ header:
   background-image: image:{header_image}[]
 footer:
   recto:
+    left:
+      content: '*{chapter-title}*'  
     right:
-      content: '*{chapter-title}* | {page-number} von {page-count}'
+      content: '{page-number} von {page-count}'
   verso:
     left:
-      content: '{page-number} von {page-count} | *{chapter-title}*'
-
+      content: '*{chapter-title}*'  
+    right:
+      content: '{page-number} von {page-count}'

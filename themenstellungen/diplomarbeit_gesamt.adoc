@@ -20,7 +20,7 @@ toc::[]
 
 include::diplomarbeit_alzo.adoc[]
 
-// include::diplomarbeit_themenstellung_nachname1.adoc[]
+include::diplomarbeit_dekoo.adoc[]
 
 // include::diplomarbeit_themenstellung_nachname2.adoc[]
 
